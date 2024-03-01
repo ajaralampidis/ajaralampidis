@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I am a **front-end developer** with three years of experience and an Industrial Design degree. 
+I am a **front-end developer** with three years of experience and an Industrial Design degree. <br /> 
 I simply like to build new products 😁
 
 📬 • [My Web](https://ajara.dev/) • [Linkedin](https://www.linkedin.com/in/ajaralampidis) • [ajaralampidis@gmail.com](mailto:ajaralampidis@gmail.com) • 📬
